@@ -10,32 +10,13 @@
         integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        html, body {
-            height: 100%;
-            margin: 0;
-        }
-        .carousel, .carousel-item {
-            height: 600px; 
-        }
-        .carousel-item img {
-            object-fit: cover; 
-            height: 100%;
-            width: 100%; 
-        }
-        .carousel-indicators [data-bs-target] {
-            width: 16px;
-            height: 16px;
-            border-radius: 50%;
-            margin-right: 10px;
-        }
-    </style>
+    <link rel="stylesheet" href="../../../assets/css/slide.css">
 </head>
-
 <body>
     <div id="slideRun" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
-            <button type="button" data-bs-target="#slideRun" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#slideRun" data-bs-slide-to="0" class="active" aria-current="true"
+                aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#slideRun" data-bs-slide-to="1" aria-label="Slide 2"></button>
             <button type="button" data-bs-target="#slideRun" data-bs-slide-to="2" aria-label="Slide 3"></button>
         </div>
@@ -58,6 +39,16 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
+        <div class="wrap-content">
+            <h2 class="title-content">
+                Your one stop shop for Everything Garden!
+            </h2>
+            <div class="sub-title">
+                <p class="go-sub-title">
+                    <span>GO TO SHOP</span>
+                </p>
+            </div>
+        </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

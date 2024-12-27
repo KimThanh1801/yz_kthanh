@@ -1,0 +1,72 @@
+.carousel,
+.carousel-item {
+    height: 600px;
+}
+.carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.carousel-indicators [data-bs-target] {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.wrap-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    z-index: 10;
+    padding: 20px;
+}
+.wrap-content .title-content {
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.wrap-content .go-sub-title span {
+    display: inline-block;
+    position: relative;
+    background-color: #fff;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 12px;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #388E3C;
+    overflow: hidden;
+    z-index: 0;
+    transition: color 0.3s ease;
+}
+.wrap-content .go-sub-title span::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background-color: #388E3C;
+    z-index: -1;
+    transition: left 0.5s ease;
+}
+.wrap-content .go-sub-title span:hover::before {
+    left: 0;
+}
+.wrap-content .go-sub-title span:hover {
+    color: #fff;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 33px; 
+    height: 50px; 
+    border-radius: 50%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ffff;
+}
+
