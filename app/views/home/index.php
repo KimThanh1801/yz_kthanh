@@ -11,9 +11,10 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="../../../assets/css/slide.css">
+    <link rel="stylesheet" href="../../../assets/css/index-products.css">
 </head>
 <body>
-    <div id="slideRun" class="carousel slide" data-bs-ride="carousel">
+    <section id="slideRun" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#slideRun" data-bs-slide-to="0" class="active" aria-current="true"
                 aria-label="Slide 1"></button>
@@ -49,8 +50,125 @@
                 </p>
             </div>
         </div>
-    </div>
-
+    </section>
+<!-- Product Categories -->
+<section class="container mt-2">
+        <h3>Products Categories</h3>
+        <div class="row">
+            <div class="col-lg-6 col-xl-4 mb-3">
+                <div class="card" style="max-width: 540px;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="../../../assets/image/anh-product1.jpg" class="img-fluid rounded-start"
+                                alt="anhRua">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Animal Statues</h5>
+                                <p class="card-text">Explore</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4 mb-3">
+                <div class="card" style="max-width: 540px;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="../../../assets/image/anh-product2.jpg" class="img-fluid rounded-start"
+                                alt="anhRua">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Animal Statues</h5>
+                                <p class="card-text">Explore</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4 mb-3">
+                <div class="card" style="max-width: 540px;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="../../../assets/image/anh-product3.jpg" class="img-fluid rounded-start"
+                                alt="anhRua">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Animal Statues</h5>
+                                <p class="card-text">Explore</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4 mb-3">
+                <div class="card" style="max-width: 540px;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="../../../assets/image/anh-product4.jpg" class="img-fluid rounded-start"
+                                alt="anhRua">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Animal Statues</h5>
+                                <p class="card-text">Explore</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4 mb-3">
+                <div class="card" style="max-width: 540px;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="../../../assets/image/anh-product5.jpg" class="img-fluid rounded-start"
+                                alt="anhRua">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Animal Statues</h5>
+                                <p class="card-text">Explore</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4 mb-3">
+                <div class="card" style="max-width: 540px;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="../../../assets/image/anh-product6.jpg" class="img-fluid rounded-start"
+                                alt="anhRua">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Animal Statues</h5>
+                                <p class="card-text">Explore</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4 mb-3">
+                <div class="card" style="max-width: 540px;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="../../../assets/image/anh-product7.jpg" class="img-fluid rounded-start"
+                                alt="anhRua">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Animal Statues</h5>
+                                <p class="card-text">Explore</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 

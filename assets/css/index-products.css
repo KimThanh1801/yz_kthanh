@@ -1,0 +1,52 @@
+h3 {
+    margin-top: 128px;
+    margin-bottom: 50px;
+    font-size: 36px;
+    color: #27662a;
+    text-align: center;
+    font-family: 'Prata';
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100%;
+    text-align: left;
+    margin-left: 20px;
+}
+.img-fluid {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100%;
+    text-align: left;
+    border: none;
+    padding-bottom: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    border-bottom: 7px solid #ccc;
+}
+.card::after {
+    content: "";
+    position: absolute;
+    bottom: -7px;
+    left: 0;
+    width: 0;
+    height: 7px;
+    background-color: #4CAF50;
+    transition: width 0.3s ease;
+}
+.card:hover::after {
+    width: 100%;
+}
