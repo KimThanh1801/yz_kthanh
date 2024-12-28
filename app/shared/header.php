@@ -39,7 +39,7 @@
                     </li>
                 </ul>
                 <div class="me-3 nav">
-                    <img src="../../../assets/image/logo.png" alt="Logo" style="height: 40px;">
+                    <img src="../../assets/image/logo.png" alt="Logo" style="height: 40px;">
                 </div>
 
                 <ul class="nav nav-pills ms-3">

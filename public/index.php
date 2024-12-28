@@ -268,7 +268,70 @@
                     <!-- New Products -->
                     <div class="col-12 col-lg-4 col-xxl-3 mb-4">
                         <div class="card our-products">
-                            <img src="../assets/image/anh-our-product2.jpg" class="card-img-top" alt="...">
+                            <img src="../assets/image/anh-new111.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Chippendale Plant Riser</h5>
+                                <p class="card-text">Plant Stands <span>$21.95</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xxl-3 mb-4">
+                        <div class="card our-products">
+                            <img src="../assets/image/anh-new22.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Chippendale Plant Riser</h5>
+                                <p class="card-text">Plant Stands <span>$21.95</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xxl-3 mb-4">
+                        <div class="card our-products">
+                            <img src="../assets/image/anh-new33.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Chippendale Plant Riser</h5>
+                                <p class="card-text">Plant Stands <span>$21.95</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xxl-3 mb-4">
+                        <div class="card our-products">
+                            <img src="../assets/image/anh-new44.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Chippendale Plant Riser</h5>
+                                <p class="card-text">Plant Stands <span>$21.95</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xxl-3 mb-4">
+                        <div class="card our-products">
+                            <img src="../assets/image/anh-new55.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Chippendale Plant Riser</h5>
+                                <p class="card-text">Plant Stands <span>$21.95</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xxl-3 mb-4">
+                        <div class="card our-products">
+                            <img src="../assets/image/anh-new66.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Chippendale Plant Riser</h5>
+                                <p class="card-text">Plant Stands <span>$21.95</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xxl-3 mb-4">
+                        <div class="card our-products">
+                            <img src="../assets/image/anh-new77.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Chippendale Plant Riser</h5>
+                                <p class="card-text">Plant Stands <span>$21.95</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xxl-3 mb-4">
+                        <div class="card our-products">
+                            <img src="../assets/image/anh-new88.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Chippendale Plant Riser</h5>
                                 <p class="card-text">Plant Stands <span>$21.95</span></p>
@@ -282,7 +345,7 @@
                     <!-- Specials Products -->
                     <div class="col-12 col-lg-4 col-xxl-3 mb-4">
                         <div class="card our-products">
-                            <img src="../assets/image/anh-our-product3.jpg" class="card-img-top" alt="...">
+                            <img src="../assets/image/anh-new88.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Wall Basket Coco Liner</h5>
                                 <p class="card-text">Coconut Liners<span>$6.95</span></p>
