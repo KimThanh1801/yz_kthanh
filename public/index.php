@@ -67,7 +67,7 @@
                         <div class="col-md-8">
                             <div class="card-body">
                                 <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text">Explore</p>
+                                <p class="card-text"><a class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                         <div class="col-md-8">
                             <div class="card-body">
                                 <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text">Explore</p>
+                                <p class="card-text"><a class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
                         <div class="col-md-8">
                             <div class="card-body">
                                 <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text">Explore</p>
+                                <p class="card-text"><a class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -112,7 +112,7 @@
                         <div class="col-md-8">
                             <div class="card-body">
                                 <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text">Explore</p>
+                                <p class="card-text"><a class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -127,7 +127,7 @@
                         <div class="col-md-8">
                             <div class="card-body">
                                 <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text">Explore</p>
+                                <p class="card-text"><a class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                         <div class="col-md-8">
                             <div class="card-body">
                                 <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text">Explore</p>
+                                <p class="card-text"><a class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -157,7 +157,7 @@
                         <div class="col-md-8">
                             <div class="card-body">
                                 <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text">Explore</p>
+                                <p class="card-text"><a class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>

@@ -50,3 +50,8 @@ h3 {
 .card:hover::after {
     width: 100%;
 }
+ .explore{
+    border-bottom: 1px solid #ccc;
+text-decoration: none;
+color:#5d4037
+}
