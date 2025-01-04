@@ -1,3 +1,6 @@
+.carousel{
+    margin-top: 70px;
+}
 .carousel,
 .carousel-item {
     height: 600px;
@@ -6,6 +9,8 @@
     object-fit: cover;
     height: 100%;
     width: 100%;
+    position: relative;
+
 }
 .carousel-indicators [data-bs-target] {
     width: 16px;
@@ -25,18 +30,21 @@
 }
 .wrap-content .title-content {
     font-size: 2.5rem;
-    font-weight: 600;
+    /* font-weight: 600; */
     margin-bottom: 15px;
+    font-size: 40px;
+    font-family: 'Parata';
+    margin: 0px 0px 48px;
 }
 .wrap-content .go-sub-title span {
     display: inline-block;
     position: relative;
     background-color: #fff;
-    padding: 10px 40px;
-    border-radius: 5px;
+    min-width: 260px;
+    min-height: 50px;
+    padding: 16px 10px;
     font-size: 12px;
     cursor: pointer;
-    text-transform: uppercase;
     color: #388E3C;
     overflow: hidden;
     z-index: 0;
