@@ -39,10 +39,14 @@ header {
     padding: 5px 20px;
 }
 .dropdown-item:hover {
-    background-color: #388E3C;
+    background-color: #225725;
     color: white;
 }
 
 .nav-pills .nav-item .nav-link:hover {
     color: #388E3C!important;
+}
+.dropdown-item{
+    background-color: #388E3C;
+   color: #fff !important;
 }

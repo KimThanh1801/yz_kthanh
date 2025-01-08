@@ -70,21 +70,18 @@
 
         .nav-tabs .nav-link {
             border: none;
-            color: #3e2723;
             font-size: 18px;
+            color: #bcaaa4;
             font-family: 'Poppins';
             padding: 0px 40px;
         }
-
         .nav-tabs .nav-link.active {
-            color: #bcaaa4;
             text-decoration: none;
+            color: #3e2723;
         }
-
         .nav-tabs {
             border-bottom: none;
         }
-
         .div {
             width: 50%;
             margin: 0 auto;

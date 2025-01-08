@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Home - YardZooks</title>
+    <link rel="icon" href="\yz_kthanh\assets\image\favicon.jpg" type="image/png">
+
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
         integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
@@ -13,10 +15,14 @@
     <link rel="stylesheet" href="../assets/css/slide.css">
     <link rel="stylesheet" href="../assets/css/index-products.css">
     <link rel="stylesheet" href="../assets/css/index-our-products.css">
+    <link rel="stylesheet" href="../assets/css/header.css">
 
 </head>
 
 <body>
+    <?php
+    include '../app/shared/header.php';
+    ?>
     <section id="slideRun" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#slideRun" data-bs-slide-to="0" class="active" aria-current="true"
@@ -62,12 +68,12 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="../assets/image/anh-product1.jpg" class="img-fluid rounded-start" alt="anhRua">
+                            <a href="#"><img src="../assets/image/anh-product1.jpg" class="img-fluid rounded-start" alt="anhRua"></a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text"><a class="explore">Explore</a></p>
+                                <h5 class="card-title"><a href="">Animal Statues</a></h5>
+                                <p class="card-text"><a href="#" class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -77,12 +83,12 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="../assets/image/anh-product2.jpg" class="img-fluid rounded-start" alt="anhRua">
+                            <a href="#"><img src="../assets/image/anh-product2.jpg" class="img-fluid rounded-start" alt="anhRua"></a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text"><a class="explore">Explore</a></p>
+                                <h5 class="card-title"><a href="">Animal Statues</a></h5>
+                                <p class="card-text"><a href="#" class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -92,12 +98,12 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="../assets/image/anh-product3.jpg" class="img-fluid rounded-start" alt="anhRua">
+                           <a href="#"> <img src="../assets/image/anh-product3.jpg" class="img-fluid rounded-start" alt="anhRua"> </a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text"><a class="explore">Explore</a></p>
+                                <h5 class="card-title"><a href="">Animal Statues</a></h5>
+                                <p class="card-text"><a href="#" class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -107,12 +113,12 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="../assets/image/anh-product4.jpg" class="img-fluid rounded-start" alt="anhRua">
+                           <a href="#"> <img src="../assets/image/anh-product4.jpg" class="img-fluid rounded-start" alt="anhRua"> </a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text"><a class="explore">Explore</a></p>
+                                <h5 class="card-title"><a href="">Animal Statues</a></h5>
+                                <p class="card-text"><a href="#" class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -122,12 +128,12 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="../assets/image/anh-product5.jpg" class="img-fluid rounded-start" alt="anhRua">
+                           <a href="#"> <img src="../assets/image/anh-product5.jpg" class="img-fluid rounded-start" alt="anhRua"> </a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text"><a class="explore">Explore</a></p>
+                                <h5 class="card-title"><a href="">Animal Statues</a></h5>
+                                <p class="card-text"><a href="#" class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -137,12 +143,12 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="../assets/image/anh-product6.jpg" class="img-fluid rounded-start" alt="anhRua">
+                           <a href="#"> <img src="../assets/image/anh-product6.jpg" class="img-fluid rounded-start" alt="anhRua"> </a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text"><a class="explore">Explore</a></p>
+                                <h5 class="card-title"><a href="">Animal Statues</a></h5>
+                                <p class="card-text"><a href="#" class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
@@ -152,12 +158,12 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="../assets/image/anh-product7.jpg" class="img-fluid rounded-start" alt="anhRua">
+                           <a href="#"> <img src="../assets/image/anh-product7.jpg" class="img-fluid rounded-start" alt="anhRua"> </a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Animal Statues</h5>
-                                <p class="card-text"><a class="explore">Explore</a></p>
+                                <h5 class="card-title"><a href="">Animal Statues</a></h5>
+                                <p class="card-text"><a  class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
