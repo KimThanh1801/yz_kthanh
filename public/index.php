@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="../assets/css/index-products.css">
     <link rel="stylesheet" href="../assets/css/index-our-products.css">
     <link rel="stylesheet" href="../assets/css/header.css">
-
+    <link rel="stylesheet" href="../assets/css/footer.css">
 </head>
 
 <body>
@@ -42,13 +42,12 @@
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#slideRun" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
+            <span class="fa fa-chevron-left" aria-hidden="true"></span>
         </button>
         <button class="carousel-control-next" type="button" data-bs-target="#slideRun" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
+            <span class="fa fa-chevron-right" aria-hidden="true"></span>
         </button>
+
         <div class="wrap-content">
             <h2 class="title-content">
                 Your one stop shop for Everything Garden!
@@ -68,7 +67,8 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <a href="#"><img src="../assets/image/anh-product1.jpg" class="img-fluid rounded-start" alt="anhRua"></a>
+                            <a href="#"><img src="../assets/image/anh-product1.jpg" class="img-fluid rounded-start"
+                                    alt="anhRua"></a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -83,7 +83,8 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <a href="#"><img src="../assets/image/anh-product2.jpg" class="img-fluid rounded-start" alt="anhRua"></a>
+                            <a href="#"><img src="../assets/image/anh-product2.jpg" class="img-fluid rounded-start"
+                                    alt="anhRua"></a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -98,7 +99,8 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                           <a href="#"> <img src="../assets/image/anh-product3.jpg" class="img-fluid rounded-start" alt="anhRua"> </a>
+                            <a href="#"><img src="../assets/image/anh-product3.jpg" class="img-fluid rounded-start"
+                                    alt="anhRua"></a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -113,7 +115,8 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                           <a href="#"> <img src="../assets/image/anh-product4.jpg" class="img-fluid rounded-start" alt="anhRua"> </a>
+                            <a href="#"><img src="../assets/image/anh-product4.jpg" class="img-fluid rounded-start"
+                                    alt="anhRua"></a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -128,7 +131,8 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                           <a href="#"> <img src="../assets/image/anh-product5.jpg" class="img-fluid rounded-start" alt="anhRua"> </a>
+                            <a href="#"><img src="../assets/image/anh-product5.jpg" class="img-fluid rounded-start"
+                                    alt="anhRua"></a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -143,7 +147,8 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                           <a href="#"> <img src="../assets/image/anh-product6.jpg" class="img-fluid rounded-start" alt="anhRua"> </a>
+                            <a href="#"><img src="../assets/image/anh-product6.jpg" class="img-fluid rounded-start"
+                                    alt="anhRua"></a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -158,17 +163,20 @@
                 <div class="card" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-4">
-                           <a href="#"> <img src="../assets/image/anh-product7.jpg" class="img-fluid rounded-start" alt="anhRua"> </a>
+                            <a href="#"><img src="../assets/image/anh-product7.jpg" class="img-fluid rounded-start"
+                                    alt="anhRua"></a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
                                 <h5 class="card-title"><a href="">Animal Statues</a></h5>
-                                <p class="card-text"><a  class="explore">Explore</a></p>
+                                <p class="card-text"><a href="#" class="explore">Explore</a></p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            
+            
         </div>
     </section>
     <!-- Our Products -->
@@ -351,7 +359,43 @@
                     <!-- Specials Products -->
                     <div class="col-12 col-lg-4 col-xxl-3 mb-4">
                         <div class="card our-products">
-                            <img src="../assets/image/anh-new88.jpg" class="card-img-top" alt="...">
+                            <img src="../assets/image/anh-new111.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Wall Basket Coco Liner</h5>
+                                <p class="card-text">Coconut Liners<span>$6.95</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xxl-3 mb-4">
+                        <div class="card our-products">
+                            <img src="../assets/image/anh-new22.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Wall Basket Coco Liner</h5>
+                                <p class="card-text">Coconut Liners<span>$6.95</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xxl-3 mb-4">
+                        <div class="card our-products">
+                            <img src="../assets/image/anh-new33.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Wall Basket Coco Liner</h5>
+                                <p class="card-text">Coconut Liners<span>$6.95</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xxl-3 mb-4">
+                        <div class="card our-products">
+                            <img src="../assets/image/anh-new44.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Wall Basket Coco Liner</h5>
+                                <p class="card-text">Coconut Liners<span>$6.95</span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xxl-3 mb-4">
+                        <div class="card our-products">
+                            <img src="../assets/image/anh-new55.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Wall Basket Coco Liner</h5>
                                 <p class="card-text">Coconut Liners<span>$6.95</span></p>
@@ -359,10 +403,20 @@
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
+        <div class="wrap-content-our-product">
+            <p class="go-sub-title-our-product">
+                <span>GO TO SHOP</span>
+            </p>
+        </div>
     </section>
+    <?php
+    include '../app/shared/footer.php';
+    ?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/js/header.js"></script>
 </body>
 
 </html>

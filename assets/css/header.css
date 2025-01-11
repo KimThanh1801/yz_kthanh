@@ -13,9 +13,8 @@ header {
 
 .nav-link {
     font-family: 'Poppins';
-    padding: 30px 31px;
+    padding: 30px 30px;
     font-size: 13px;
-    z-index: 2;
 }
 .dropdown-item {
     padding: 10px 40px;
@@ -35,12 +34,13 @@ header {
 .nav-item:hover .dropdown-menu {
     display: block;
 }
-.dropdown-item {
+/* .dropdown-item {
     padding: 5px 20px;
-}
+} */
 .dropdown-item:hover {
     background-color: #225725;
     color: white;
+
 }
 
 .nav-pills .nav-item .nav-link:hover {
@@ -49,4 +49,23 @@ header {
 .dropdown-item{
     background-color: #388E3C;
    color: #fff !important;
+}
+#headerWidth {
+    height: 0;
+    overflow: hidden;
+    transition: height 0.5s ease;
+}
+
+#headerContent1 {
+    display: none;
+}
+.text-research-input{
+    padding: 0px;
+    width: 100%;
+}
+.nav-pills {
+justify-content: flex-start; 
+}
+.nav-item {
+text-align: left; 
 }
