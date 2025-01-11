@@ -1,5 +1,5 @@
 .carousel{
-    margin-top: 70px;
+    margin-top: 81.5px;
 }
 .carousel,
 .carousel-item {
@@ -124,17 +124,12 @@ color: #fff;
 
 .carousel-control-prev,
 .carousel-control-next {
-    width: 40px;  
-    height: 40px;  
+    width: 48px;  
+    height: 48px;  
     position: absolute;
     top: 50%;
-    transform: translateY(-50%, -50%);
     border: 1px solid #ccc;  
     border-radius: 50%;  
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;  /* Đảm bảo bất kỳ phần tử nào tràn ra ngoài đều bị ẩn */
 }
 .carousel-control-prev{
     margin-left: 20px;
